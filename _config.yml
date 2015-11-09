@@ -1,0 +1,23 @@
+name: The BTS Center Grid
+favicon: null
+layout_spectrum: 0.9143531944137067
+typography_spectrum: 0.8958638915792108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9048225341830403
+  lightness: 0.4995802629273385
+  saturation: 0.6496310695074499
+  rhythmicContrast: 0.0071783228777348995
+purpose: []
